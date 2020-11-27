@@ -1,0 +1,19 @@
+Ex. 1a
+1. crime, thriller;
+2. biopic;
+3. fantasy;
+4. period drama;
+5. romantic comedy;
+6. adventure;
+7. disaster;
+8. action;
+9. docudrama;
+
+Ex. 1b
+1. romantic comedy;
+2. disaster;
+3. biopic;
+4. action;
+5. action;
+6. crime, thriller;
+

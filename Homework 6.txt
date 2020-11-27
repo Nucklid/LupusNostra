@@ -1,0 +1,38 @@
+Ex.1
+1- d);
+2- f);
+3- a);
+4- h);
+5- g);
+6- c);
+7- b);
+8- e);
+
+Ex.2
+A;
+1.Could I ask a question?
+2.In my opinion.
+3.There are a couple of things I'd like to ask about.
+4.For me, the most important thing.
+5.I have a query. 
+6.One thing I'd like to say is that.
+7.Can I ask you about that?
+8.I'd have to say 'yes'.
+
+B;
+
+A- Conversation 4;
+B- Conversation 1;
+C- Conversation 2;
+D- Conversation 3;
+
+Ex.3
+1.a);
+2.b);
+3.c);
+4.c);
+5.a);
+6.a);
+7.c);
+8.c);
+9.b);
